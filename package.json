@@ -1,0 +1,30 @@
+{
+  "name": "compose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "cookie-parser": "*",
+    "echojs": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-ejs-layouts": "*",
+    "jquery": "*",
+    "jsdom": "*",
+    "keyword-extractor": "0.0.12",
+    "lodash": "^3.10.1",
+    "najax": "*",
+    "node-sass": "*",
+    "querystring": "*",
+    "supervisor": "*"
+  }
+}
