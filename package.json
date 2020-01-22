@@ -12,19 +12,17 @@
     "url": ""
   },
   "dependencies": {
-    "body-parser": "^1.13.3",
-    "cookie-parser": "*",
-    "echojs": "*",
-    "ejs": "*",
-    "express": "*",
-    "express-ejs-layouts": "*",
-    "jquery": "*",
-    "jsdom": "*",
-    "keyword-extractor": "0.0.12",
-    "lodash": "^3.10.1",
-    "najax": "*",
-    "node-sass": "*",
-    "querystring": "*",
-    "supervisor": "*"
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "jquery": "^3.4.1",
+    "keyword-extractor": "0.0.18",
+    "lodash": "^4.17.15",
+    "querystring": "^0.2.0"
+  },
+  "devDependencies": {
+    "supervisor": "^0.12.0"
   }
 }
